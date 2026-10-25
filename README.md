@@ -38,4 +38,4 @@ This is a friendly community competition that takes the concept of fantasy footb
 
 [Discord](https://discord.gg/z2SqRbNr)
 
-[BeMidgeGaming's Runner Ranking List Gen 4]()
+BeMidgeGaming's Runner Ranking List Gen 4 - will be linked soon
