@@ -22,7 +22,7 @@ This is a friendly community competition that takes the concept of fantasy footb
 |Lab Choice| 2 |
 |First Rival Win| 2 |
 |Run Ender| 2 |
-|Level Progress| 0.5 |
+|Level Progress| 0.2 |
 |Enter Sprout Tower| 1 |
 |Gym Leader Ace| 2 |
 |Each Gym Leader/E4| 5 |
@@ -31,7 +31,7 @@ This is a friendly community competition that takes the concept of fantasy footb
 |Bug Catch Pivot (Leveled up twice)| 5 |
 |Shiny| 5 |
 
-> Progress - 0.5 points per level gained in seed
+> Progress - 0.2 points per level gained in seed
 
 ## LINKS
 [Murphmon Rules](https://takejoshyy.github.io/TheMurphVerse/#core-games-rules)
