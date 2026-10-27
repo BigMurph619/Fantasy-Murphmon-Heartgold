@@ -1,7 +1,7 @@
 # Fantasy-Murphmon
 This is a friendly community competition that takes the concept of fantasy football and applies it to Murphmon!
 
-<img width="413" height="300" alt="image" src="https://github.com/user-attachments/assets/ee2bde17-8076-48ea-8e98-c30ea4111994" />"
+<img width="413" height="300" alt="image" src="https://github.com/user-attachments/assets/ee2bde17-8076-48ea-8e98-c30ea4111994" />
 
 ## How Does IT Work?
 
