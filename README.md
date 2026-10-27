@@ -1,7 +1,7 @@
 # Fantasy-Murphmon
 This is a friendly community competition that takes the concept of fantasy football and applies it to Murphmon!
 
-         <img src="https://github.com/BigMurph619/Fantasy-Murphmon-Heartgold/blob/main/Blaziken_Final.png" width="300" height="350"> 
+<img src="<img width="4135" height="3000" alt="image" src="https://github.com/user-attachments/assets/ee2bde17-8076-48ea-8e98-c30ea4111994" />" width="300" height="350"> 
 
 ## How Does IT Work?
 
