@@ -1,6 +1,8 @@
 # Fantasy-Murphmon
 This is a friendly community competition that takes the concept of fantasy football and applies it to Murphmon!
 
+         <img src="https://github.com/BigMurph619/Fantasy-Murphmon-Heartgold/blob/main/Blaziken_Final.png" width="300" height="350"> 
+
 ## How Does IT Work?
 
 |DRAFT|
@@ -22,7 +24,7 @@ This is a friendly community competition that takes the concept of fantasy footb
 |Lab Choice| 2 |
 |First Rival Win| 2 |
 |Run Ender| 2 |
-|Level Progress| 0.2 |          <img src="https://github.com/BigMurph619/Fantasy-Murphmon-Heartgold/blob/main/Blaziken_Final.png" width="300" height="350">
+|Level Progress| 0.2 | 
 |Enter Sprout Tower| 1 |
 |Gym Leader Ace| 2 |
 |Each Gym Leader/E4| 5 |
